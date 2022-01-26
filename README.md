@@ -6,7 +6,7 @@
 
 ## Instruction installation
 
-    1- Télécharger l'archive 'https://casagency.fr/burpsuite/Burp_Suite.rar'
+    1- Télécharger l'archive 'https://mega.nz/file/H3R1hYRL#740fUKLhuueGVcncmMzE8KkQsRFfvOXmNHdL_CPJW-0'
     2- Décompresser et copier Tout le dossier '"Burp_Suite"' et son contenu dans '"C:\Program Files (x86)\"'
 
 ### Lancé un powershell (en administrateur) et effectuer cette commande
